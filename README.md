@@ -1,5 +1,4 @@
-**# vuaphim
-ai code
+
 **# WEBPHIM - MVC Website for Watching Free Movies Online
 
 Welcome to WEBPHIM, a PHP-based MVC website that lets you watch free movies online. This repository contains the source code for the WEBPHIM website, along with various components and features such as login management pages, admin pages, search page, navigation, sidebar, topbar, footer, header, movie content, playback bar, and movie rating.
